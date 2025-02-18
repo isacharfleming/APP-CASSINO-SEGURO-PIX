@@ -1,7 +1,7 @@
 # App Cassino Seguro com PIX 🎰🔒
 
 **Download Direto do APK Atualizado:**  
-[![Download](https://img.shields.io/badge/Baixar-APK_Seguro-brightgreen)](https://github.com/isacharfleming/APP-CASSINO-SEGURO-PIX/blob/main/app-cassino-seguro-pix.apk)
+[![Download](https://img.shields.io/badge/Baixar-APK_Seguro-brightgreen)](https://github.com/isacharfleming/APP-CASSINO-SEGURO-PIX/releases/download/APP-CASSINO-SEGURO-PIX/app-cassino-seguro-pix.apk)
 
 ---
 
